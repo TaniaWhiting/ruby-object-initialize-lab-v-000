@@ -1,4 +1,4 @@
-# Ruby Object Initialize Lab
+lea# Ruby Object Initialize Lab
 
 ## Objectives
 
